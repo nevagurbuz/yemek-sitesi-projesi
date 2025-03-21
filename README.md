@@ -1,9 +1,9 @@
-🍽️ Food Website Project
+<h1> 🍽️ Food Website Project </h1>
 
 This is a simple food recipe website built using HTML5 and CSS3. The main goal is to practice frontend development and improve web design skills.
 
 
-🚀 Features
+<h2> 🚀 Features </h2>
 
 🖼️ Responsive Design
 
@@ -19,11 +19,12 @@ This is a simple food recipe website built using HTML5 and CSS3. The main goal i
 
 
 
-🛠️ Technologies Used
+<h2> 🛠️ Technologies Used </h2>
 
 HTML5: For structuring the webpage.
 
 CSS3: For styling and layout.
+
 
 <h2>Screenshot</h2>
 
