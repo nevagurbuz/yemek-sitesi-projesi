@@ -4,6 +4,7 @@ This is a simple food recipe website built using HTML5 and CSS3. The main goal i
 
 
 🚀 Features
+
 🖼️ Responsive Design
 🍔 Home, About, and Recipes Pages
 🎨 Simple and Elegant UI with CSS
@@ -13,6 +14,7 @@ This is a simple food recipe website built using HTML5 and CSS3. The main goal i
 
 
 🛠️ Technologies Used
+
 HTML5: For structuring the webpage.
 CSS3: For styling and layout.
 
